@@ -5,7 +5,7 @@
 - Try Maya Model: [Demo](https://huggingface.co/spaces/kkr5155/maya_demo)
 
 
-<b>Multimodal LLM supporting 8 languages including English, Chinese, French, Spanish, Russian, Japanese, Arabic, Hindi</b>
+<b>Maya is a finetuned multilingual multimodal model for Adult Consumption.</b>
 ## Update
 - [5/30/2025] Two papers accepted at CVPR Workshops 2025
   - [Understanding and Mitigating Toxicity](https://arxiv.org/abs/2505.06356) as Oral for RGenAI Workshop 2025
